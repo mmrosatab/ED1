@@ -1,2 +1,3 @@
-# ED1
-Repositorio de exercícios da disciplina estrutura de dados I
+# ExerciciosEDI
+
+Este repositório se destina ao exercícios da disciplina de Estrutura de Dados I da UFRRJ. Os exercicios foram desenvolvidos em C.
